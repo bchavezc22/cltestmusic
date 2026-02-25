@@ -35,7 +35,6 @@ This project was created as a technical assessment and demonstrates modern Andro
 ## ⚙️ How to Build and Run
 
 ### Prerequisites
-* **Android Studio** (latest stable version recommended).
 * An Android device or emulator running **API level 24** or higher.
 * A **Discogs API Key**.
 
